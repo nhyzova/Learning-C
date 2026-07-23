@@ -17,8 +17,8 @@ int main() {
 
     // FORMAT SPECIFIERS 
     // Sa používajú spolu s funkciou printf() na výpis premenných 
-    // %d -> int
-    // %f -> float =
+    // %d -> int = celé číslo
+    // %f -> float = desatiné číslo
     // %c -> char = jeden znak 
     // %s -> char = string
 
