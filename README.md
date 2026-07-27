@@ -76,14 +76,14 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - Arrays
 - Strings
 - String Functions
+- User Input
+- Memory Address
+- Pointers
 
 ---
 
 ## ⏳ Coming Next
 
-- User Input
-- Memory Address
-- Pointers
 - Functions
 - Function Parameters
 - Scope
