@@ -48,13 +48,35 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ---
 
+## ⌨️ Vstup používateľa
+
+- 📄 `user_input.c` – scanf(), fgets()
+
+---
+
+## 🧠 Pamäť
+
+- 📄 `memory_address.c` – adresy v pamäti
+- 📄 `pointers.c` – pointery
+- 📄 `pointers_arrays.c` – pointery a polia
+
+---
+
+## ⚙️ Funkcie
+
+- 📄 `functions.c` – základy funkcií
+- 📄 `function_parameters.c` – parametre funkcií
+- 📄 `scope.c` – lokálny a globálny scope
+
+---
+
 # 📈 Progress
 
-🎯 **Current Progress:** **60%**
+🎯 **Current Progress:** **67%**
 
-📖 **Current Topic:** User Input
+📖 **Current Topic:** C Functions
 
-📅 Last Updated: **22.07.2026**
+📅 Last Updated: **06.08.2026**
 
 ---
 
@@ -79,14 +101,14 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - User Input
 - Memory Address
 - Pointers
+- Functions
+- Function Parameters
+- Scope
 
 ---
 
 ## ⏳ Coming Next
 
-- Functions
-- Function Parameters
-- Scope
 - Recursion
 - Structures
 - Enums
