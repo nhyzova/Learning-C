@@ -67,53 +67,18 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `functions.c` – základy funkcií
 - 📄 `function_parameters.c` – parametre funkcií
 - 📄 `scope.c` – lokálny a globálny scope
+- 📄 `function_declaration` - deklarácia a definícia funkcie
+- 📄 `recursion.c` - rekurzívne funkcie
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **67%**
+🎯 **Current Progress:** **71%**
 
 📖 **Current Topic:** C Functions
 
-📅 Last Updated: **06.08.2026**
-
----
-
-## ✅ Completed
-
-- Introduction
-- Get Started
-- Syntax
-- Output
-- Variables
-- Data Types
-- Type Conversion
-- Constants
-- Operators
-- Booleans
-- If...Else
-- Switch
-- Loops
-- Arrays
-- Strings
-- String Functions
-- User Input
-- Memory Address
-- Pointers
-- Functions
-- Function Parameters
-- Scope
-
----
-
-## ⏳ Coming Next
-
-- Recursion
-- Structures
-- Enums
-- Memory Management
-- File Handling
+📅 Last Updated: **10.08.2026**
 
 ---
 
