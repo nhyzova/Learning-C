@@ -11,7 +11,7 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ---
 
-## 🟢 Základy
+## 🧱 Základy
 
 - 📄 `syntax.c` - syntax
 - 📄 `output.c` - výpis pomocou `printf()`
