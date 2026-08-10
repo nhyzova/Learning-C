@@ -68,15 +68,19 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `function_parameters.c` – parametre funkcií
 - 📄 `scope.c` – lokálny a globálny scope
 - 📄 `function_declaration` - deklarácia a definícia funkcie
+- 📄 `math_functions.c` – matematické funkcie (`math.h`)
+- 📄 `inline_function.c` – inline funkcie
 - 📄 `recursion.c` - rekurzívne funkcie
+- 📄 `function_pointer.c` - ukazovateľ na funkciu
+- 📄 `callback_function.c` – callback funkcie (spätné volania)
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **71%**
+🎯 **Current Progress:** **72%**
 
-📖 **Current Topic:** C Functions
+📖 **Current Topic:** C Files
 
 📅 Last Updated: **10.08.2026**
 
