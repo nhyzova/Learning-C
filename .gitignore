@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Compiled executables
+program
+*.out
+
+# VS Code
+.vscode/settings.json
