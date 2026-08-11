@@ -79,14 +79,16 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 ## 📁 Súbory
 
 - 📄 `create_files.c` - vytváranie súborov pomocou `fopen()`
+- 📄 `write_to_files.c` - zapisovanie údajov do súborov (`fprintf()`)
+- 📄 `read_files.c ` - čítanie údajov zo súborov (`fgets()`, `fscanf()`)
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **73%**
+🎯 **Current Progress:** **74%**
 
-📖 **Current Topic:** C Files
+📖 **Current Topic:** C Structures
 
 📅 Last Updated: **11.08.2026**
 
