@@ -76,13 +76,19 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ---
 
+## 📁 Súbory
+
+- 📄 `create_files.c` - vytváranie súborov pomocou `fopen()`
+
+---
+
 # 📈 Progress
 
-🎯 **Current Progress:** **72%**
+🎯 **Current Progress:** **73%**
 
 📖 **Current Topic:** C Files
 
-📅 Last Updated: **10.08.2026**
+📅 Last Updated: **11.08.2026**
 
 ---
 
