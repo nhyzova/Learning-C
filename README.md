@@ -84,13 +84,19 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ---
 
+## 🏗️ Štruktúry
+
+- 📄 `structures.c` - vytváranie a používanie štruktúr (`struct`), prístup k členom (`.`), práca s reťazcami (`strcpy()`)
+
+---
+
 # 📈 Progress
 
-🎯 **Current Progress:** **74%**
+🎯 **Current Progress:** **76%**
 
 📖 **Current Topic:** C Structures
 
-📅 Last Updated: **11.08.2026**
+📅 Last Updated: **12.08.2026**
 
 ---
 
