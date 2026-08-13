@@ -90,14 +90,15 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `nested_structs.c` - vnorené štruktúry (štruktúra ako člen inej štruktúry)
 - 📄 `structs_pointers.c` - použitie ukazateľov na štruktúry (`struct *`), prístup k členom pomocou operátora `->`
 - 📄 `unions.c` - vytváranie a používanie únií (`union`), zdieľaná pamäť medzi všetkými členmi
+- 📄 `typedef.c` - vytváranie aliasov dátových typov (`typedef`), zjednodušenie deklarácie štruktúr (`struct`)
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **79%**
+🎯 **Current Progress:** **80%**
 
-📖 **Current Topic:** C Structures
+📖 **Current Topic:** C Enums
 
 📅 Last Updated: **13.08.2026**
 
