@@ -89,12 +89,13 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `structures.c` - vytváranie a používanie štruktúr (`struct`), prístup k členom (`.`), práca s reťazcami (`strcpy()`)
 - 📄 `nested_structs.c` - vnorené štruktúry (štruktúra ako člen inej štruktúry)
 - 📄 `structs_pointers.c` - použitie ukazateľov na štruktúry (`struct *`), prístup k členom pomocou operátora `->`
+- 📄 `unions.c` - vytváranie a používanie únií (`union`), zdieľaná pamäť medzi všetkými členmi
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **78%**
+🎯 **Current Progress:** **79%**
 
 📖 **Current Topic:** C Structures
 
