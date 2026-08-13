@@ -64,6 +64,12 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ---
 
+## 🧠 Memory Management
+
+- 📄 `memory_management.c` – základy správy pamäte v C
+
+---
+
 ## ⚙️ Funkcie
 
 - 📄 `functions.c` – základy funkcií
