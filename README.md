@@ -92,14 +92,15 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `unions.c` - vytváranie a používanie únií (`union`), zdieľaná pamäť medzi všetkými členmi
 - 📄 `typedef.c` - vytváranie aliasov dátových typov (`typedef`), zjednodušenie deklarácie štruktúr (`struct`)
 - 📄 `struct_padding.c` - zarovnanie štruktúr (struct alignment), padding (vyplňovacie bajty), vplyv poradia členov na veľkosť štruktúry (`sizeof`), porovnanie štruktúr
+- 📄 `enums.c` - vytváranie a používanie enumerácií (`enum`), pomenované celočíselné konštanty, vlastné hodnoty a práca s premennými typu `enum`
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **81%**
+🎯 **Current Progress:** **83%**
 
-📖 **Current Topic:** C Enumeration (enum)
+📖 **Current Topic:** C Memory Management
 
 📅 Last Updated: **13.08.2026**
 
