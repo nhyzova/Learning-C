@@ -86,13 +86,13 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ## 🏗️ Štruktúry
 
-- 📄 `structures.c` - vytváranie a používanie štruktúr (`struct`), prístup k členom (`.`), práca s reťazcami (`strcpy()`)
-- 📄 `nested_structs.c` - vnorené štruktúry (štruktúra ako člen inej štruktúry)
-- 📄 `structs_pointers.c` - použitie ukazateľov na štruktúry (`struct *`), prístup k členom pomocou operátora `->`
-- 📄 `unions.c` - vytváranie a používanie únií (`union`), zdieľaná pamäť medzi všetkými členmi
-- 📄 `typedef.c` - vytváranie aliasov dátových typov (`typedef`), zjednodušenie deklarácie štruktúr (`struct`)
-- 📄 `struct_padding.c` - zarovnanie štruktúr (struct alignment), padding (vyplňovacie bajty), vplyv poradia členov na veľkosť štruktúry (`sizeof`), porovnanie štruktúr
-- 📄 `enums.c` - vytváranie a používanie enumerácií (`enum`), pomenované celočíselné konštanty, vlastné hodnoty a práca s premennými typu `enum`
+- 📄 `structures.c` - základy štruktúr (`struct`)
+- 📄 `nested_structs.c` - vnorené štruktúry
+- 📄 `structs_pointers.c` - ukazovatele na štruktúry
+- 📄 `unions.c` - únia (`union`) a zdieľaná pamäť
+- 📄 `typedef.c` - aliasy dátových typov (`typedef`)
+- 📄 `struct_padding.c` - zarovnanie a padding štruktúr
+- 📄 `enums.c` - enumerácie (`enum`)
 
 ---
 
