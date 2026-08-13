@@ -57,6 +57,8 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 ## 🧠 Pamäť
 
 - 📄 `memory_address.c` – adresy v pamäti
+- 📄 `pointer_arithmetic.c` – aritmetika pointerov
+- 📄 `pointer_to_pointer.c` – pointer na pointer
 - 📄 `pointers.c` – pointery
 - 📄 `pointers_arrays.c` – pointery a polia
 
