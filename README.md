@@ -68,6 +68,7 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 - 📄 `memory_management.c` – základy správy pamäte v C
 - 📄 `allocate_memory.c` – alokácia dynamickej pamäte (`malloc()`, `calloc()`, `sizeof`)
+- 📄 `access_memory.c` – prístup, čítanie a zápis do dynamickej pamäte
 
 ---
 
@@ -107,11 +108,11 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 # 📈 Progress
 
-🎯 **Current Progress:** **83%**
+🎯 **Current Progress:** **86%**
 
-📖 **Current Topic:** C Memory Management
+📖 **Current Topic:** C Reallocate Memory
 
-📅 Last Updated: **13.08.2026**
+📅 Last Updated: **14.08.2026**
 
 ---
 
