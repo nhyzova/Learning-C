@@ -67,6 +67,7 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 ## 🧠 Memory Management
 
 - 📄 `memory_management.c` – základy správy pamäte v C
+- 📄 `allocate_memory.c` – alokácia dynamickej pamäte (`malloc()`, `calloc()`, `sizeof`)
 
 ---
 
