@@ -70,6 +70,7 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `allocate_memory.c` – alokácia dynamickej pamäte (`malloc()`, `calloc()`, `sizeof`)
 - 📄 `access_memory.c` – prístup, čítanie a zápis do dynamickej pamäte
 - 📄 `reallocate_memory.c` – zmena veľkosti dynamicky alokovanej pamäte pomocou `realloc()`
+- 📄 `deallocate_memory.c` – uvoľnenie dynamicky alokovanej pamäte pomocou `free()`
 
 ---
 
@@ -109,11 +110,11 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 # 📈 Progress
 
-🎯 **Current Progress:** **87%**
+🎯 **Current Progress:** **88%**
 
-📖 **Current Topic:** C Deallocate (free) Memory
+📖 **Current Topic:** C Struct and Memory
 
-📅 Last Updated: **16.08.2026**
+📅 Last Updated: **22.08.2026**
 
 ---
 
