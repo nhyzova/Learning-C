@@ -114,7 +114,7 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 📖 **Current Topic:** C Struct and Memory
 
-📅 Last Updated: **22.08.2026**
+📅 Last Updated: **19.08.2026**
 
 ---
 
