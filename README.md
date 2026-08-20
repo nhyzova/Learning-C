@@ -71,6 +71,7 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `access_memory.c` – prístup, čítanie a zápis do dynamickej pamäte
 - 📄 `reallocate_memory.c` – zmena veľkosti dynamicky alokovanej pamäte pomocou `realloc()`
 - 📄 `deallocate_memory.c` – uvoľnenie dynamicky alokovanej pamäte pomocou `free()`
+- 📄 `structs_and_memory.c` – dynamická pamäť pri štruktúrach
 
 ---
 
@@ -110,11 +111,11 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 # 📈 Progress
 
-🎯 **Current Progress:** **88%**
+🎯 **Current Progress:** **89%**
 
-📖 **Current Topic:** C Struct and Memory
+📖 **Current Topic:** C Memory Management Example
 
-📅 Last Updated: **19.08.2026**
+📅 Last Updated: **20.08.2026**
 
 ---
 
