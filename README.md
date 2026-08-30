@@ -110,11 +110,17 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 
 ---
 
+## ❌ Errors
+
+- 📄 `errors.c` – bežné compile-time a runtime chyby v C
+
+---
+
 # 📈 Progress
 
-🎯 **Current Progress:** **89%**
+🎯 **Current Progress:** **91%**
 
-📖 **Current Topic:** C Errors
+📖 **Current Topic:** C Debugging
 
 📅 Last Updated: **30.08.2026**
 
