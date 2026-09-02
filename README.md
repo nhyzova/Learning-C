@@ -113,16 +113,17 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 ## ❌ Errors
 
 - 📄 `errors.c` – bežné compile-time a runtime chyby v C
+- 📄 `debugging.c` – základy ladenia programu, hľadanie chýb pomocou výpisov a bezpečnostných kontrol
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **91%**
+🎯 **Current Progress:** **92%**
 
-📖 **Current Topic:** C Debugging
+📖 **Current Topic:** C NULL
 
-📅 Last Updated: **30.08.2026**
+📅 Last Updated: **02.09.2026**
 
 ---
 
