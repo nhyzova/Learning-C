@@ -115,16 +115,17 @@ Postupne sem pridávam príklady, vlastné poznámky a menšie programy, ktoré 
 - 📄 `errors.c` – bežné compile-time a runtime chyby v C
 - 📄 `debugging.c` – základy ladenia programu, hľadanie chýb pomocou výpisov a bezpečnostných kontrol
 - 📄 `null.c` – práca s hodnotou `NULL`, kontrola neplatných ukazovateľov a ošetrenie chýb pri práci so súbormi a pamäťou
+- `error_handling.c` – ošetrenie chýb pomocou návratových hodnôt, `perror()` a `exit()`
 
 ---
 
 # 📈 Progress
 
-🎯 **Current Progress:** **93%**
+🎯 **Current Progress:** **94%**
 
-📖 **Current Topic:** C Error Handling
+📖 **Current Topic:** C Input Validation
 
-📅 Last Updated: **05.09.2026**
+📅 Last Updated: **18.09.2026**
 
 ---
 
